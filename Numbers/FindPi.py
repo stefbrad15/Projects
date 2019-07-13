@@ -1,3 +1,4 @@
+# Copyright 2019 sbradstr
 from math import pi
 
 py_int = int(input("Enter number of digits to find Pi for: "))
